@@ -289,12 +289,10 @@ texinfo_documents = [
 
 # Markdown support
 
-from recommonmark.parser import CommonmMarkParser
-
-# The Suffix of source filenames.
-
-source_suffix = ['.rst', '.md']
+from recommonmark.parser import CommonMarkParser
 
 source_parsers = {
-	'.md': CommonMarkParser,
+    '.md': CommonMarkParser,
 }
+
+source_suffix = ['.rst', '.md']
