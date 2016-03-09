@@ -14,7 +14,7 @@ Welcome to Dueling Dogs Documentation's documentation!
 	:maxdepth: 2
 	:caption: Misc
 
-	monitoring 
+	systems-status 
 
 
 
