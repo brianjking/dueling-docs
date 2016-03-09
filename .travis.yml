@@ -14,7 +14,6 @@ matrix:
   fast_finish: true
   allow_failures:
     - env: TOXENV=markdown-lint
-=======
 install: pip install -q -r requirements.txt
 script: markdownlint source
 script: make html
