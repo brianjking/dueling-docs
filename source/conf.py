@@ -16,13 +16,15 @@ import sys
 import os
 
 
-# on_rtd is whether we are on readthedocs.org
+# on_rtd is whether we are on readthedocs.org, this line of code grabbed from docs.readthedocs.org
 on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
 
 if not on_rtd:  # only import and set the theme if we're building docs locally
     import sphinx_rtd_theme
     html_theme = 'sphinx_rtd_theme'
     html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+
+# otherwise, readthedocs.org uses their theme by default, so no need to specify it
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -59,7 +61,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Dueling Dogs Documentation'
-copyright = u'2016, Brian J King, Dueling Dogs'
+copyright = u'2016, Dueling Dogs, LLC'
 author = u'Brian J King, Dueling Dogs'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -158,7 +160,7 @@ html_static_path = ['_static']
 
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
 # using the given strftime format.
-#html_last_updated_fmt = '%b %d, %Y'
+html_last_updated_fmt = '%b %d, %Y'
 
 # If true, SmartyPants will be used to convert quotes and dashes to
 # typographically correct entities.
@@ -181,6 +183,7 @@ html_static_path = ['_static']
 #html_split_index = False
 
 # If true, links to the reST sources are added to the pages.
+html_show_sourcelink = False
 #html_show_sourcelink = True
 
 # If true, "Created using Sphinx" is shown in the HTML footer. Default is True.
