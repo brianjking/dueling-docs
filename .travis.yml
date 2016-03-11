@@ -14,7 +14,6 @@ matrix:
   fast_finish: true
   allow_failures:
     - env: TOXENV=markdown-lint
-script: markdownlint source
 after_success: curl -X POST https://readthedocs.org/build/dueling-dogs-online-documentation
 notifications:
   slack:
