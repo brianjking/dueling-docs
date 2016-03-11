@@ -1,6 +1,11 @@
 Welcome to Dueling Dogs Documentation's documentation!
 ======================================================
 
+
+Contents
+-----------------
+* [Systems Status](systems-status.md)
+
 .. Contents:
 
 .. toctree::
@@ -9,10 +14,6 @@ Welcome to Dueling Dogs Documentation's documentation!
 
    signing-up
    logging-in
-
-Contents
------------------
-* [Systems Status](systems-status.md)
 
 
 
