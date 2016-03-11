@@ -1,5 +1,5 @@
 sphinx
-sphinx-rtd-theme
-recommonmark
 sphinx-git
 pymarkdownlint
+commonmark<=0.5.4
+docutils>=0.11
