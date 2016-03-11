@@ -14,7 +14,8 @@
 
 import sys
 import os
-
+import shlex 
+#import shlex came from recommonmark repo conf.
 
 # on_rtd is whether we are on readthedocs.org, this line of code grabbed from docs.readthedocs.org
 on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
@@ -39,6 +40,7 @@ def setup(app):
             }, True)
     app.add_transform(AutoStructify)
 
+github_doc_root = 'https://github.com/duelingdogs/dueling-docs/tree/master/source'
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -57,6 +59,7 @@ extensions = [
     'sphinx.ext.pngmath',
     'sphinx.ext.ifconfig',
     'sphinx_git',
+    'sphinx.ext.autodoc',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -322,3 +325,13 @@ source_parsers = {
 }
 
 source_suffix = ['.rst', '.md']
+
+# App Setup Hook
+
+def setup(app):
+    app.add_config_value('recommonmark_config', {
+            'url_resolver': lambda url: github_doc_root + url,
+            'auto_toc_tree_section': 'Contents',
+            }, True)
+    app.add_transform(AutoStructify)
+
