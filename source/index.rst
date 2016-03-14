@@ -26,6 +26,11 @@ Welcome to the Help Documentation for `Dueling Dogs <https://duelingdogs.net>`_ 
 
    event-registration
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Membership
+
+   dueling-dogs-membership
 
 .. toctree::
    :maxdepth: 2
