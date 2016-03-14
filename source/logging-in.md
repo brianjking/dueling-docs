@@ -6,7 +6,7 @@ Logging Into My Dueling Dogs Account
 account and will need to reset your password in order to access it.
 * To access a password reset simply visit 
 [Dueling Dogs Registration](https://www.duelingdogsevents.com) and 
-select *Forgot Your Username and/or Password*, this can be found below
+select **Forgot Your Username and/or Password**, this can be found below
 the login box.
 * You can also click 
 [Forgot Password](https://duelingdogsevents.com/portal/static/app/index.html#/login/reset)
