@@ -8,13 +8,14 @@ install:
 - gem install mdl
 - pip install tox
 script: 
-- tox
+#- tox
 - make html
 matrix:
   fast_finish: true
-  allow_failures:
-    - env: TOXENV=markdown-lint
+#  allow_failures:
+#   - env: TOXENV=markdown-lint
 after_success: curl -X POST https://readthedocs.org/build/dueling-dogs-online-documentation
 notifications:
+  email: false 
   slack:
-    secure: AtZ1zkhc57HWfJxlm8JNG1XZxRAVqx3wBEq1lczpP3KGvpubftH0cn/PQqdZSusfr0goM4Lnu7+kSgMrrmJYmGf2qJd5cUnGemDAPf7T/Qz15GLFcoaZ5UroCe4lShyc5ynVfGe0pq3v1jOlY7zontgRvmkULLPeD5EoVnVnr1TEx3ir3e1OT2cd89pNrVMWmZ9l9YWWXgN0y/6kOUqG+9bKZDkZEKe9JbYShTRfTv7ezsbBREJfwlM1CqzRx1pQ+NZ4hRkvHKun5PsKbwxqkQ/7lzac1jd3Q3PTG2VfdgKiPbuxbpu0bsPpBdzoJ+qHQiVgaJKaopPhixcI8Hy8r265e6kcC3TAWrf978hgLwQVMBhW+rucRCaeNZZ/PFOjGIj2KNH3yxl9AXZEL19YmgAVnRwN55wzTIBvZVGLbHaqovVSncxPQ11z+wD1DnSEn6u7g0TSHfQi3zhpXY6zOR8yzpiEtZE/oKU3L3AUQTtQqYZjsxGiIC9eN/e6NhXvad8Tpwfjp+4TfKvktzQNdzOCjZRosJzOVIMgL1NCvkNHRk8SA6iacK/W3HeZciq8GUC5bSf2nTFNOnYI47vgbIJQ2j/p3LrN7HqbMoNSOtyWrpGaPr+b+HIJa0DoejMr++jGpWT0JhPrlIsKChOl07bUD9u2jdlsERpqNh/u82o=
+     secure: "mWOtroAwlMkFbSSHI4Vy5FLhIEIOKRVTT8AIvEEiBungdkOumYDIFCsWqB3nb6Ws3p6UudA3JWj5UzaV7x3P7qwOwm1WnrMUQXcdLUjnrDuwU7MwSqfRxq+yK9fHpMsF9aaDJcVfREaL6RUzN+sxrzD+S2rdZSimq8U/jnMYpTrPmi5JKyuKL3Zx0KDx/dTGLzE3QuO7TlfuQi+5cpZ3f5ETeIN22oi207MpmrwxGppeYfebqgxMpf4m4m5T28XYTFPMfoXhJnHp5sq0KdxaMFakrgxPhXaDQAtPcFgn+ITCSS44zjbOcLKLhMxSESecqWv8x63zIl+/pmQmYUEIdBCPGqpeiXqN2WVmzTwxwNXF/6x5otg7FZmsx+nr1G7Ll8uexV2DwwfPvBFhoD4bPyW+YHvXK7igmgMPZttcT1ST9uSolvYBOYtENVWLxKvM3jXn9nhvXQ49GWAB/MxkyjQGTu0dpiXgamplBpX8yoVR746dYC3DijH/vgL0ry7c0DH8CpH+m10KtvWGD1sLRKzZqOlFwXm+uIPbts7NheqbLIphuXIVUXfuN58qHdypyiO96WkdalsIuYJo4KoNC4pa5HJ0SnNm5rwzC/PcBnRjRmS1BV+hZ9skd25cfF4oyfudXadaQlIT1/q6LzcdRKFNLfnB5IEYrFdI0thFb9I="
