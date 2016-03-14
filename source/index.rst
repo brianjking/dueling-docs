@@ -13,6 +13,7 @@ Welcome to the Help Documentation for `Dueling Dogs <https://duelingdogs.net>`_ 
    signing-up
    logging-in
    updating-profile
+   adding-handler
 
 .. toctree::
    :maxdepth: 2
