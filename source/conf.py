@@ -43,6 +43,7 @@ extensions = [
     'sphinx.ext.pngmath',
     'sphinx.ext.ifconfig',
     'sphinx_git',
+    'sphinxcontrib.email',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
