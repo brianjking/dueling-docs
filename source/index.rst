@@ -1,6 +1,9 @@
 Welcome to Dueling Dogs Documentation's documentation!
 ======================================================
 
+Welcome to the Help Documentation for `Dueling Dogs <https://duelingdogs.net>`_ and the `Dueling Dogs Registration System <https://www.duelingdogsevents.com>`_.
+
+
 .. Contents:
 
 .. toctree::

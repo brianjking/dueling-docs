@@ -13,4 +13,4 @@ the login box.
 to directly reset your password from here.
 
 ## New Dueling Dogs Participant
-* If you've never before participated in Dueling Dogs you'll need to create a new account. 
+* If you've never before participated in Dueling Dogs you'll need to [create a new account](http://help.duelingdogs.net/en/latest/signing-up.html). 
