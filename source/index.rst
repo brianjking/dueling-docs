@@ -9,12 +9,19 @@ Welcome to Dueling Dogs Documentation's documentation!
 
    signing-up
    logging-in
+   updating-profile
 
 .. toctree::
    :maxdepth: 2
    :caption: My Teams
 
    teams
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Event Registration
+
+   event-registration
 
 
 .. toctree::
