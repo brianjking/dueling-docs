@@ -17,18 +17,21 @@ Welcome to the Help Documentation for `Dueling Dogs <https://duelingdogs.net>`_ 
    adding-handler
 
 .. toctree::
+   :hidden:
    :maxdepth: 2
    :caption: My Teams
 
    teams
 
 .. toctree::
+   :hidden:
    :maxdepth: 2
    :caption: Event Registration
 
    event-registration
 
 .. toctree::
+   :hidden:
    :maxdepth: 2
    :caption: Membership
 
@@ -41,6 +44,7 @@ Welcome to the Help Documentation for `Dueling Dogs <https://duelingdogs.net>`_ 
    faq 
 
 .. toctree::
+   :hidden:
    :maxdepth: 2
    :caption: Misc
 
