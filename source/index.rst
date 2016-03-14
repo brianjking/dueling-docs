@@ -7,6 +7,7 @@ Welcome to the Help Documentation for `Dueling Dogs <https://duelingdogs.net>`_ 
 .. Contents:
 
 .. toctree::
+   :hidden:
    :maxdepth: 2
    :caption: Getting Started
 
