@@ -24,4 +24,18 @@ What credit cards do you accept?
 
    <span class="pf pf-american-express"></span>
    <span class="pf pf-visa"></span>
+   <span class="pf pf-mastercard"></span>
+   <span class="pf pf-discover"></span>
+
+
+How much does a Dueling Dogs Membership Cost?
+----------------------------------------------
+
+* Dueling Dogs Memberships are **$35/handler/year**.
+
+
+When do memberships start/end?
+-------------------------------------------------------
+
+* Membership runs from 1 January through 31 December.
 
