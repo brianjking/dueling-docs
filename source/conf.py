@@ -26,6 +26,12 @@ if not on_rtd:  # only import and set the theme if we're building docs locally
 
 # otherwise, readthedocs.org uses their theme by default, so no need to specify it
 
+
+# For Paymentfont.io Icon Support (in addition to adding css & font to _static folder as per https://github.com/sphinx-doc/sphinx/issues/2274 )
+
+def setup(app):
+    app.add_stylesheet('css/paymentfont.css')
+
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.

@@ -15,3 +15,13 @@ What is the minimum age for a Handler or Dog to participate in Dueling Dogs?
 * A Handler must be at least 7 years of age in order to participate in Dueling Dogs.
 
 * A Dog must be at least 6 months of age in order to participate in Dueling Dogs.
+
+
+What credit cards do you accept?
+---------------------------------
+
+.. raw:: html
+
+   <span class="pf pf-american-express"></span>
+   <span class="pf pf-visa"></span>
+
