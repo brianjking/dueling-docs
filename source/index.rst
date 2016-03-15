@@ -3,7 +3,7 @@ Welcome to Dueling Dogs Documentation's documentation!
 
 Welcome to the Help Documentation for `Dueling Dogs <https://duelingdogs.net>`_ and the `Dueling Dogs Registration System <https://www.duelingdogsevents.com>`_.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p_R1nfhiTes" frameborder="0" allowfullscreen></iframe>
+.. youtube:: http://www.youtube.com/watch?v=p_R1nfhiTes
 
 
 .. Contents:
