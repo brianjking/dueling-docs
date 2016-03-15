@@ -19,7 +19,7 @@ Welcome to the Help Documentation for `Dueling Dogs <https://duelingdogs.net>`_ 
 .. toctree::
    :hidden:
    :maxdepth: 2
-   :caption: My Teams
+   :caption: My Dogs
 
    teams
 
@@ -33,9 +33,10 @@ Welcome to the Help Documentation for `Dueling Dogs <https://duelingdogs.net>`_ 
 .. toctree::
    :hidden:
    :maxdepth: 2
-   :caption: Membership
+   :caption: Membership & Account
 
    dueling-dogs-membership
+   account
 
 .. toctree::
    :hidden:
