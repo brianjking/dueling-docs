@@ -38,6 +38,7 @@ Welcome to the Help Documentation for `Dueling Dogs <https://duelingdogs.net>`_ 
    dueling-dogs-membership
 
 .. toctree::
+   :hidden:
    :maxdepth: 1
    :caption: FAQs
 
