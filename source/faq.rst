@@ -17,7 +17,13 @@ What is the minimum age for a Handler or Dog to participate in Dueling Dogs?
 * A Dog must be at least 6 months of age in order to participate in Dueling Dogs.
 
 
-What credit cards do you accept?
+I didn't receive my account email, receipt email, or other email sent from Dueling Dogs Registration System. Now what?
+-----------------------------------------------------------------------------------------------------------------------
+
+Check your spam/junk folder if you haven’t received your confirmation email within a few minutes. You can also search your email for an email from **noreply@duelingdogsevents.com**.
+
+
+Which credit cards do you accept?
 ---------------------------------
 
 .. raw:: html
@@ -40,6 +46,6 @@ When do memberships start/end?
 * Membership runs from 1 January through 31 December.
 
 How can I contact Dueling Dogs via email?
--------------------------------------------------------------
+------------------------------------------
 
 * You can contact Dueling Dogs via the `Dueling Dogs Website <https://duelingdogs.net/contact-us/>`_ contact page. 
