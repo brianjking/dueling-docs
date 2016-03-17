@@ -39,3 +39,7 @@ When do memberships start/end?
 
 * Membership runs from 1 January through 31 December.
 
+How can I contact Dueling Dogs via email?
+-------------------------------------------------------------
+
+* You can contact Dueling Dogs via the `Dueling Dogs Website <https://duelingdogs.net/contact-us/>`_ contact page. 
