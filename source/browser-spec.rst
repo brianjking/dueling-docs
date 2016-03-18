@@ -1,5 +1,5 @@
 Browser Configuration Check
- =============================
+=============================
 
 .. tip:: If you're having trouble accessing the Dueling Dogs website or
 registration system we may ask that you visit the site below to help us diagnose

@@ -1,5 +1,5 @@
 Register For a Dueling Dogs Event
- ====================================
+====================================
 
 .. tip::  Prior to being able to register for a Dueling Dogs event YOU MUST
 complete your `Handler Profile
