@@ -3,9 +3,6 @@ Welcome to Dueling Dogs Registration & Web Help Docuemntation!
 
 Welcome to the Help Documentation for `Dueling Dogs <https://duelingdogs.net>`_ and the `Dueling Dogs Registration System <https://www.duelingdogsevents.com>`_.
 
-.. youtube:: http://www.youtube.com/watch?v=p_R1nfhiTes
-
-
 .. Contents:
 
 .. toctree::
