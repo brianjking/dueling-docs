@@ -1,13 +1,7 @@
 Register For a Dueling Dogs Event
 ====================================
 
-.. tip::  Prior to being able to register for a Dueling Dogs event YOU MUST
-complete your `Handler Profile
-<http://help.duelingdogs.net/en/latest/updating-profile.html>`_
- and have a
-`Team (Dog) <http://help.duelingdogs.net/en/latest/teams.html>`_
- added to your
-account.
+.. tip::  Prior to being able to register for a Dueling Dogs event YOU MUST complete your `Handler Profile <http://help.duelingdogs.net/en/latest/updating-profile.html>`_ and have a `Team (Dog) <http://help.duelingdogs.net/en/latest/teams.html>`_ added to your account.
 
 1. Click on **EVENT REGISTRATION** from the left hand navigation.
 
@@ -22,7 +16,7 @@ account.
 team(s) and click **NEXT** to proceed to the confirmation step.
 
 #. If all looks good on the confirmation screen simply click **CONFIRM** to
-#proceed to payment.
+proceed to payment.
 
 #. Enter credit card details and check the box that you agree to the `Dueling
 Dogs Rules & Policies <https://duelingdogs.net/rules-policies/>`_.
