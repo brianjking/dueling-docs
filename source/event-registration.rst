@@ -5,20 +5,19 @@ Register For a Dueling Dogs Event
 
 1. Click on **EVENT REGISTRATION** from the left hand navigation.
 
-#. Locate the event you'd like to register for from the list of upcoming events.
+2. Locate the event you'd like to register for from the list of upcoming events.
 
-#. Click **REGISTER**
+3. Click **REGISTER**
 
-#. Select which Team(s) you'd like to register for this event with and click the
-**NEXT** button to proceed to the **DUEL SELECTION**.
+4. Select which Team(s) you'd like to register for this event with and click the **NEXT** button to proceed to the **DUEL SELECTION**.
 
-#. Select the Duel(s) you'd like to participate in with each of the selected
+5. Select the Duel(s) you'd like to participate in with each of the selected
 team(s) and click **NEXT** to proceed to the confirmation step.
 
-#. If all looks good on the confirmation screen simply click **CONFIRM** to
+6. If all looks good on the confirmation screen simply click **CONFIRM** to
 proceed to payment.
 
-#. Enter credit card details and check the box that you agree to the `Dueling
+7. Enter credit card details and check the box that you agree to the `Dueling
 Dogs Rules & Policies <https://duelingdogs.net/rules-policies/>`_.
 
-#. Click **MAKE PAYMENT**.
+8. Click **MAKE PAYMENT**.
