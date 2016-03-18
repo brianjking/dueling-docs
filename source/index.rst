@@ -45,7 +45,7 @@ Welcome to the Help Documentation for `Dueling Dogs <https://duelingdogs.net>`_ 
    :maxdepth: 1
    :caption: FAQs
 
-   faq 
+   faq
 
 .. toctree::
    :hidden:
@@ -53,6 +53,4 @@ Welcome to the Help Documentation for `Dueling Dogs <https://duelingdogs.net>`_ 
    :caption: Misc
 
    systems-status
-
-
-
+   browser-spec
