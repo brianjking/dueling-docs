@@ -15,6 +15,7 @@ and the `Dueling Dogs Registration System <https://www.duelingdogsevents.com>`_.
    logging-in
    updating-profile
    adding-handler
+   very-important-dueler
 
 .. toctree::
    :hidden:
