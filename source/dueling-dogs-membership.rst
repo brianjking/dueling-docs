@@ -14,9 +14,7 @@ Dueling Dogs Membership Cost & Time Period
 Joining Dueling Dogs - Get A Membership
 ------------------------------------------
 
-* `Sign-in <http://help.duelingdogs.net/en/latest/logging-in.html>`_ to your
-Dueling Dogs Handler account at `https://www.duelingdogsevents.com
-<https://www.duelingdogsevents.com>`_.
+* `Sign-in <http://help.duelingdogs.net/en/latest/logging-in.html>`_ to your Dueling Dogs Handler account at `https://www.duelingdogsevents.com <https://www.duelingdogsevents.com>`_.
 
 * Select **PROFILE** from the left hand navigation menu.
 
