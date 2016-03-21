@@ -51,5 +51,6 @@ and the `Dueling Dogs Registration System <https://www.duelingdogsevents.com>`_.
    :maxdepth: 2
    :caption: Misc
 
+   issue-report
    systems-status
    browser-spec
