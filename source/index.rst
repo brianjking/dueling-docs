@@ -40,6 +40,13 @@ and the `Dueling Dogs Registration System <https://www.duelingdogsevents.com>`_.
    account
 
 .. toctree::
+    :hidden:
+    :maxdepth: 1
+    :caption: Media
+
+    dueling-dogs-photo-video-contest
+
+.. toctree::
    :hidden:
    :maxdepth: 1
    :caption: FAQs
