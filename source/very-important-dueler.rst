@@ -23,7 +23,7 @@ KEY POINTS
 #.	Dueling Dogs™ Annual Membership must be maintained in good standing in accordance with Dueling Dogs™ Rules and Policies.
 #.	Dueling Dogs™ Annual Membership must be active to accumulate VID Club points. Points do not reset if a membership expires and a member missed points awards during the inactive period.  They are not retroactive.
 #.	Except as otherwise stated herein, VID Club Points are credited to a Member’s Account within fourteen (14) days of competing at an event.  Members can check their VID Club Point balance by logging into their VID Account at the Site. Dueling Dogs LLC may from time to time, offer opportunities to earn extra VID Club Bonus or Multiplier Points through participation in different promotions, contests or events.
-#.	VID Club Members who achieve a certain Level are entitled to certain benefits (“Benefits”) which are identified on the Site at www.duelingdogs.net/VIDclubrewardsprogram.  Benefits are subject to change at any time without notice to Members.
+#.	VID Club Members who achieve a certain Level are entitled to certain benefits (“Benefits”) which are identified on the `Dueling Dogs Website <https://duelingdogs.net/very-important-dueler-vid-club-program/>`_.  Benefits are subject to change at any time without notice to Members.
 #.	VID Club Points may not be awarded for certain events or demos or non-revenue duels, as reasonably determined by Dueling Dogs LLC.  
 
 VID Club Members will be deemed a certain “Level” of points accumulated, depending on the number of the VID Club Points earned. The following number of VID Club Points must be earned to be awarded the corresponding benefit.
