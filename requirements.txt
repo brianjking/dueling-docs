@@ -4,5 +4,4 @@ recommonmark
 sphinx-git
 pymarkdownlint
 sphinxcontrib-email
-sphinxcontrib.youtube
  
