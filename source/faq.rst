@@ -5,7 +5,7 @@ Frequently Asked Questions
 Where can I find a copy of the Dueling Dogs Rules & Policies
 -------------------------------------------------------------
 
-* The Dueling Dogs Rules & Policies can be found online at the `Dueling Dogs Website <https://duelingdogs.net/rules-policies>`_. 
+* The Dueling Dogs Rules & Policies can be found online at the `Dueling Dogs Website <https://duelingdogs.net/rules-policies>`_.
 
 
 
@@ -48,4 +48,9 @@ When do memberships start/end?
 How can I contact Dueling Dogs via email?
 ------------------------------------------
 
-* You can contact Dueling Dogs via the `Dueling Dogs Website <https://duelingdogs.net/contact-us/>`_ contact page. 
+* You can contact Dueling Dogs via the `Dueling Dogs Website <https://duelingdogs.net/contact-us/>`_ contact page.
+
+How do I access the Dueling Dogs main website?
+----------------------------------------------------
+
+* You can access the main Dueling Dogs website by visiting `https://duelingdogs.net <https://duelingdogs.net/>`_
