@@ -4,6 +4,14 @@ Welcome to Dueling Dogs Registration & Web Help Docuemntation!
 Welcome to the Help Documentation for `Dueling Dogs <https://duelingdogs.net>`_
 and the `Dueling Dogs Registration System <https://www.duelingdogsevents.com>`_.
 
+Experiencing a Problem with Registration?
+---------------------------------------------
+
+If you're having trouble with a technical issue regarding registration please
+submit an issue report by clicking on **QUESTIONS/PROBLEMS** at the top of this
+page and fill out the form that will appear in a small pop-up window. 
+
+.. image:: images/jira.gif
 
 .. Contents:
 
