@@ -9,7 +9,7 @@ Viewing Dueling Dogs Rankings
 
 * Rankings can be viewed via your web browser and navigated using the on-screen controls to zoom and switch pages.
 
-* You can also download event results to your device for your own records as a PDF.
+* You can also download Dueling Dogs Rankings to your device for your own records as a PDF.
 
 
 Downloading Dueling Dogs Rankings
