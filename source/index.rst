@@ -48,14 +48,12 @@ page and fill out the form that will appear in a small pop-up window.
    dueling-dogs-membership
    account
 
-   .. toctree::
-      :hidden:
-      :maxdepth: 2
-      :caption: Dueling Dogs Event Results
+.. toctree::
+   :hidden:
+   :maxdepth: 2
+   :caption: Dueling Dogs Event Results
 
-      event-results
-
-
+   event-results
 
 .. toctree::
     :hidden:
