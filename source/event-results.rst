@@ -15,5 +15,4 @@ Viewing Event Results
 Downloading Event Results
 ------------------------------
 
-* In order to download event results you must have
-`Adobe PDF Reader (FREE) <https://get.adobe.com/reader/>`_ or an alternative program installed on your computer.
+* In order to download event results you must have`Adobe PDF Reader (FREE) <https://get.adobe.com/reader/>`_ or an alternative program installed on your computer.
