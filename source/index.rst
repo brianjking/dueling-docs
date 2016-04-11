@@ -51,9 +51,16 @@ page and fill out the form that will appear in a small pop-up window.
 .. toctree::
    :hidden:
    :maxdepth: 2
-   :caption: Dueling Dogs Event Results
+   :caption: Event Results
 
    event-results
+
+.. toctree::
+   :hidden:
+   :maxdepth: 2
+   :caption: Rankings
+
+   rankings
 
 .. toctree::
     :hidden:
