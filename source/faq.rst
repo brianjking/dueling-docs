@@ -1,13 +1,12 @@
 Frequently Asked Questions
 =============================
 
+Please review the Frequently Asked Questions we've compiled below. If you're still having trouble please `file an issue <http://help.duelingdogs.net/en/latest/issue-report.html>`_ or `contact us <https://duelingdogs.net/contact-us/>`_.
 
 Where can I find a copy of the Dueling Dogs Rules & Policies
 -------------------------------------------------------------
 
 * The Dueling Dogs Rules & Policies can be found online at the `Dueling Dogs Website <https://duelingdogs.net/rules-policies>`_.
-
-
 
 What is the minimum age for a Handler or Dog to participate in Dueling Dogs?
 ----------------------------------------------------------------------------
@@ -39,6 +38,10 @@ How much does a Dueling Dogs Membership Cost?
 
 * Dueling Dogs Memberships are **$35/handler/year**.
 
+Do I need to pay for a membership for each dog (team) I participate with?
+--------------------------------------------------------------------------
+
+* No. Your Dueling Dogs membership covers all teams that you participate with.
 
 When do memberships start/end?
 -------------------------------------------------------
@@ -54,3 +57,8 @@ How do I access the Dueling Dogs main website?
 ----------------------------------------------------
 
 * You can access the main Dueling Dogs website by visiting `https://duelingdogs.net <https://duelingdogs.net/>`_
+
+Downloading Rankings & Results
+---------------------------------------
+
+* In order to view the downloaded Dueling Dogs Rankings or Results you will need `Adobe PDF Reader (FREE) <https://get.adobe.com/reader/>`_ or an alternative program installed on your computer.
