@@ -9,7 +9,7 @@ Experiencing a Problem with Registration?
 
 If you're having trouble with a technical issue regarding registration please
 submit an issue report by clicking on **QUESTIONS/PROBLEMS** at the top of this
-page and fill out the form that will appear in a small pop-up window. 
+page and fill out the form that will appear in a small pop-up window.
 
 .. image:: images/jira.gif
 
@@ -47,6 +47,15 @@ page and fill out the form that will appear in a small pop-up window.
 
    dueling-dogs-membership
    account
+
+   .. toctree::
+      :hidden:
+      :maxdepth: 2
+      :caption: Dueling Dogs Event Results
+
+      event-results
+
+
 
 .. toctree::
     :hidden:
