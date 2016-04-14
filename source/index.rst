@@ -47,6 +47,7 @@ page and fill out the form that will appear in a small pop-up window.
 
    dueling-dogs-membership
    account
+   membership-benefits
 
 .. toctree::
    :hidden:
