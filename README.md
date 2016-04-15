@@ -1,4 +1,4 @@
-# Dueling Dogs Online Help Documentation
+# Dueling Dogs Online Help Documentation - [http://help.duelingdogs.net/en/latest](http://help.duelingdogs.net/en/latest/)
 
 [![Build Status](https://travis-ci.org/duelingdogs/dueling-docs.svg?branch=master)](https://travis-ci.org/duelingdogs/dueling-docs)
 
