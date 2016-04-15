@@ -26,3 +26,5 @@ Joining Dueling Dogs - Get A Membership
 * Enter Credit Card Payment details.
 
 * Select **MAKE PAYMENT**
+
+.. image:: images/purchase-membership.gif
