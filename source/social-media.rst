@@ -12,7 +12,7 @@ Dueling Dogs Hashtags & Tagging
 
 * Use the hashtag ``#DUELINGDOGS`` and tag us in your posts using ``@duelingdogs`` on **Twitter** or **Instagram**. 
 
-* When posting on Facebook you can also tag us by writing ``@DuelingDogs`` which should bring up an interface to select the Dueling Dogs Facebook page.
+* When posting on Facebook you can also tag us by writing ``@DuelingDogs`` which should bring up an interface to select the `Dueling Dogs Facebook Page`_.
 
 .. target-notes::
 
