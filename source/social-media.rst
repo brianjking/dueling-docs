@@ -8,7 +8,7 @@ Dueling Dogs can be found on Facebook, Instagram, and Twitter.
 * `Dueling Dogs Twitter <http://twitter.com/duelingdogs>`_
 
 Dueling Dogs Hashtags
-==============================
+-----------------------
 
 * Use the hashtag #DUELINGDOGS and tag us in your posts using @duelingdogs on Twitter or Instagram. 
 
