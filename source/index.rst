@@ -68,6 +68,8 @@ page and fill out the form that will appear in a small pop-up window.
     :maxdepth: 1
     :caption: Media
 
+    email
+    social-media
     dueling-dogs-photo-video-contest
 
 .. toctree::
