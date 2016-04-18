@@ -65,7 +65,7 @@ page and fill out the form that will appear in a small pop-up window.
 
 .. toctree::
     :hidden:
-    :maxdepth: 1
+    :maxdepth: 2
     :caption: Media
 
     email
