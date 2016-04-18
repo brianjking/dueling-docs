@@ -14,6 +14,8 @@ You can opt-out (unsubscribe) at any time simply by clicking the **UNSUBSCRIBE**
 
 For more information please visit our `Privacy Policy`_.
 
+.. include:: privacy-policy.rst
+
 
 .. target-notes::
 
