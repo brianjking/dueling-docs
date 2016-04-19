@@ -3,6 +3,8 @@ Frequently Asked Questions
 
 Please review the Frequently Asked Questions we've compiled below. If you're still having trouble please `file an issue <http://help.duelingdogs.net/en/latest/issue-report.html>`_ or `contact us <https://duelingdogs.net/contact-us/>`_.
 
+.. tip:: For technical issues such as errors displayed when attempting to register for an event, purchase a membership, _VID Club Points_ in your account, etc please use the **ISSUE REPORT** by clicking on "QUESTIONS/PROBLEMS". For standard inquiries please feel free to use the contact form. 
+
 Where can I find a copy of the Dueling Dogs Rules & Policies
 -------------------------------------------------------------
 
