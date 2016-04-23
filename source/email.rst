@@ -10,7 +10,7 @@ You can sign up for the `Dueling Dogs Mailing List`_ to stay up-to-date on all t
 Privacy & Opting Out
 ------------------------
 
-You can opt-out (unsubscribe) at any time simply by clicking the **UNSUBSCRIBE** link in any email you receive.
+You can opt-out (unsubscribe) at any time by clicking the **UNSUBSCRIBE** link in any email you receive.
 
 For more information please visit our `Privacy Policy`_.
 

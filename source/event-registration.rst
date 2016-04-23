@@ -9,7 +9,7 @@ Register For a Dueling Dogs Event
 
 3. Click **REGISTER**
 
-4. Select which Team(s) you'd like to register for this event with and click the **NEXT** button to proceed to the **DUEL SELECTION**.
+4. Select the Team(s) you'd like to register for this event with and click the **NEXT** button to proceed to the **DUEL SELECTION**.
 
 5. Select the Duel(s) you'd like to participate in with each of the selected team(s) and click **NEXT** to proceed to the confirmation step.
 

@@ -8,7 +8,7 @@ Please review the Frequently Asked Questions we've compiled below. If you're sti
 Where can I find a copy of the Dueling Dogs Rules & Policies
 -------------------------------------------------------------
 
-* The Dueling Dogs Rules & Policies can be found online at the `Dueling Dogs Website <https://duelingdogs.net/rules-policies>`_.
+* The Dueling Dogs Rules & Policies are available at the `Dueling Dogs Website <https://duelingdogs.net/rules-policies>`_.
 
 What is the minimum age for a Handler or Dog to participate in Dueling Dogs?
 ----------------------------------------------------------------------------
@@ -53,7 +53,7 @@ When do memberships start/end?
 How can I contact Dueling Dogs via email?
 ------------------------------------------
 
-* You can contact Dueling Dogs via the `Dueling Dogs Website <https://duelingdogs.net/contact-us/>`_ contact page.
+* You can contact Dueling Dogs via the `Dueling Dogs Contact Us page <https://duelingdogs.net/contact-us/>`_
 
 How do I access the Dueling Dogs main website?
 ----------------------------------------------------

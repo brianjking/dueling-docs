@@ -15,7 +15,7 @@ page and fill out the form that will appear in a small pop-up window.
 
 .. Contents:
 
-.. toctree::
+ .. toctree::
    :hidden:
    :maxdepth: 2
    :caption: Getting Started
@@ -26,21 +26,21 @@ page and fill out the form that will appear in a small pop-up window.
    adding-handler
    very-important-dueler
 
-.. toctree::
+ .. toctree::
    :hidden:
    :maxdepth: 2
    :caption: My Dogs
 
    teams
 
-.. toctree::
+ .. toctree::
    :hidden:
    :maxdepth: 2
    :caption: Event Registration
 
    event-registration
 
-.. toctree::
+ .. toctree::
    :hidden:
    :maxdepth: 2
    :caption: Membership & Account
@@ -49,21 +49,21 @@ page and fill out the form that will appear in a small pop-up window.
    account
    membership-benefits
 
-.. toctree::
+ .. toctree::
    :hidden:
    :maxdepth: 2
    :caption: Event Results
 
    event-results
 
-.. toctree::
+ .. toctree::
    :hidden:
    :maxdepth: 2
    :caption: Rankings
 
    rankings
 
-.. toctree::
+ .. toctree::
     :hidden:
     :maxdepth: 2
     :caption: Media
@@ -72,14 +72,14 @@ page and fill out the form that will appear in a small pop-up window.
     social-media
     dueling-dogs-photo-video-contest
 
-.. toctree::
+ .. toctree::
    :hidden:
    :maxdepth: 1
    :caption: FAQs
 
    faq
 
-.. toctree::
+ .. toctree::
    :hidden:
    :maxdepth: 2
    :caption: Misc
