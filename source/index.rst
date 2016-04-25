@@ -62,6 +62,7 @@ page and fill out the form that will appear in a small pop-up window.
    :caption: Rankings
 
    rankings
+   world-records
 
 .. toctree::
     :hidden:
