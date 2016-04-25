@@ -6,5 +6,5 @@ Dueling Dogs World Records
 
 .. target-notes::
 
-.. _`Dueling Dogs Facebook Page`: https://duelingdogs.net/world-records/
+.. _`Dueling Dogs World Records`: https://duelingdogs.net/world-records/
 
