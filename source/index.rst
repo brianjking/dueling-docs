@@ -4,6 +4,10 @@ Welcome to Dueling Dogs Registration & Web Help Docuemntation!
 Welcome to the Help Documentation for `Dueling Dogs <https://duelingdogs.net>`_
 and the `Dueling Dogs Registration System <https://www.duelingdogsevents.com>`_.
 
+Please use the left-hand side menu to navigate to the section you have a question about.
+
+You can also download the entire `help documentation as a PDF <http://readthedocs.org/projects/dueling-dogs-online-documentation/downloads/pdf/latest/>`_ for printing or for accessing offline.
+
 Experiencing a Problem with Registration?
 ---------------------------------------------
 
