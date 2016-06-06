@@ -24,8 +24,8 @@ I didn't receive my account email, receipt email, or other email sent from Dueli
 Check your spam/junk folder if you haven’t received your confirmation email within a few minutes. You can also search your email for an email from **noreply@duelingdogsevents.com**.
 
 
-Which credit cards do you accept?
----------------------------------
+Which credit cards do you accept for events taking place in the United States?
+-------------------------------------------------------------------------------
 
 .. raw:: html
 
@@ -34,11 +34,23 @@ Which credit cards do you accept?
    <span class="pf pf-mastercard"></span>
    <span class="pf pf-discover"></span>
 
+Which credit cards do you accept for events taking place in Canada?
+-------------------------------------------------------------------------------
+
+.. raw:: html
+
+      <span class="pf pf-visa"></span>
+      <span class="pf pf-mastercard"></span>
+      <span class="pf pf-discover"></span>
+
+.. tip:: Duel registrations & Dueling Dogs Memberships may be subject to HST collection.
 
 How much does a Dueling Dogs Membership Cost?
 ----------------------------------------------
 
 * Dueling Dogs Memberships are **$35/handler/year**.
+
+.. tip:: Handlers who reside in Canada will be charged in Canadian dollars and will be subject to HST.
 
 Do I need to pay for a membership for each dog (team) I participate with?
 --------------------------------------------------------------------------

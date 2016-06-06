@@ -11,6 +11,8 @@ Dueling Dogs Membership Cost & Time Period
 
 * Membership runs from 1 January through 31 December.
 
+.. tip:: Handlers who reside in Canada will be charged in Canadian dollars and will be subject to HST.
+
 Joining Dueling Dogs - Get A Membership
 ------------------------------------------
 
