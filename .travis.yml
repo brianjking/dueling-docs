@@ -3,8 +3,10 @@ python:
 - '2.7'
 env:
   - TOXENV=markdown-lint
+before_install:
+  - sudo apt-get -qq update
+  - sudo apt-get install -y texlive-full
 install:
-- apt-get install -y texlive-full
 - pip install -q -r requirements.txt
 - gem install mdl
 - pip install tox
