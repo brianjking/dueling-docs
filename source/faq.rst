@@ -76,3 +76,8 @@ Downloading Rankings & Results
 ---------------------------------------
 
 * In order to view the downloaded Dueling Dogs Rankings or Results you will need `Adobe PDF Reader (FREE) <https://get.adobe.com/reader/>`_ or an alternative program installed on your computer.
+
+What is a Challenge Duel?
+------------------------------------
+
+* The Challenge Duel Round allows teams to request a Duel against each other (instead of being randomly assigned).
