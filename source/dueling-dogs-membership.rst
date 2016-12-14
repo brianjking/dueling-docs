@@ -44,4 +44,4 @@ Renew Dueling Dogs Membership (2017)
 
 * If you are a 2016 Dueling Dogs Member that has accumulated VID Points or earned VID Points Rewards such as complimentary Dueling Dogs Duels, you must renew your membership prior to **15 January, 2017** in order to avoid forfeitting the points and/or rewards.
 
-.. tip:: If you have earned a complimentary membership through the VID Points Program you will still need to login at the `_Dueling Dogs Registration <https://www.duelingdogsevents.com>`_ page prior to **15 January, 2017** to **ACTIVATE** your membership.
+.. tip:: If you have earned a complimentary membership through the VID Points Program you will still need to login at the `Dueling Dogs Registration <https://www.duelingdogsevents.com>`_ page prior to **15 January, 2017** to **ACTIVATE** your membership.
